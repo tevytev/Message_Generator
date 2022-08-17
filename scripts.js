@@ -1,5 +1,5 @@
 const secretMessageObj = {
-    msgPartOne: ['You', 'Yo mama', 'yo daddy', 'yo lil girlfriend'],
+    msgPartOne: ['You', 'Yo grammy', 'yo daddy', 'yo lil girlfriend'],
     msgPartTwo: ['can', 'cant', 'should', 'shouldnt'],
     msgPartThree: ['live in', 'visit', 'leave', 'work in'],
     msgPartFour: ['the US', 'the Dominican Republic', 'Florida', 'the Maldives'],
